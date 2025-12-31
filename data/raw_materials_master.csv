@@ -1,0 +1,17 @@
+material_id,category,unit_cost,lead_time_days,min_order_quantity,storage_temp_req
+Silicon_Wafers,Electronics,150,7,100,Normal
+Copper_Wire,Electronics,25,3,500,Normal
+Plastic_Components,Electronics,10,5,1000,Normal
+PCB_Boards,Electronics,200,10,50,Controlled
+Steel_Sheets,Automotive,80,14,200,Normal
+Aluminum_Blocks,Automotive,120,12,100,Normal
+Rubber_Parts,Automotive,15,4,2000,Normal
+Electronic_Modules,Automotive,300,21,10,Controlled
+Cotton_Fiber,Textiles,5,2,5000,Normal
+Polyester_Yarn,Textiles,8,3,3000,Normal
+Dyes_Chemicals,Textiles,50,6,100,Controlled
+Fabric_Softeners,Textiles,12,4,1000,Normal
+Base_Chemicals,Chemicals,100,10,500,Controlled
+Catalysts,Chemicals,500,15,20,Controlled
+Solvents,Chemicals,30,5,1000,Controlled
+Additives,Chemicals,75,8,200,Normal

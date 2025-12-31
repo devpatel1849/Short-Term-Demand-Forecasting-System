@@ -1,0 +1,5 @@
+product_category,Actual_Demand,Predicted_Demand,MAE,MAPE,Accuracy_%
+Automotive,268457,268443.04,0.95,0.14,99.86
+Chemicals,199470,199528.77,0.98,0.21,99.79
+Electronics,333343,333368.08,1.19,0.13,99.87
+Textiles,402180,402133.14,1.65,0.15,99.85

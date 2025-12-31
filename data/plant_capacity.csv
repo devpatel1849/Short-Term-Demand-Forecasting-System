@@ -1,0 +1,5 @@
+plant_id,max_daily_capacity,established_year,employee_count,automation_level,location_latitude,location_longitude
+Plant_A_Mumbai,5000,2015,250,0.8,19.076,72.8777
+Plant_B_Chennai,4000,2018,180,0.6,13.0827,80.2707
+Plant_C_Pune,3500,2020,150,0.9,18.5204,73.8567
+Plant_D_Bangalore,4500,2017,220,0.7,12.9716,77.5946
