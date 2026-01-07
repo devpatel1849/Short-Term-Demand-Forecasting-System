@@ -125,3 +125,5 @@ The system requires the following Python packages:
 ---
 
 *Built with advanced machine learning techniques, this system represents the cutting edge of manufacturing demand forecasting technology.*
+
+PROJECT URL:- https://short-term-demand-forecasting-system.streamlit.app/
